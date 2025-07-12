@@ -170,3 +170,65 @@ main {
 
 }
 /* :end */
+/* user review  */
+.review-section {
+    margin-bottom: 135px;
+}
+
+.review-heading {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    margin-bottom: 50px;
+}
+
+.review-star {
+    margin-bottom: 24px;
+}
+
+.user-review {
+    display: flex;
+    gap: 20px;
+}
+
+.user-review-info {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid #F2EDED;
+    border-radius: 14px;
+    padding: 24px 48px 24px 24px;
+
+}
+
+.user-review-title {
+    font-size: 24px;
+    font-weight: 600;
+    color: #1E1E1E;
+}
+
+.user-review-sub-title {
+    color: #1E1E1E;
+    margin: 8px 0 24px 0;
+}
+
+.user-review-personal-info {
+    display: flex;
+}
+
+.user-reviewer-image {
+    border-radius: 100%;
+}
+
+.user-reviewer-name-date {
+    margin-left: 12px;
+}
+
+.user-reviewer-name {
+    font-weight: 600;
+    color: #757575;
+}
+
+.user-reviewer-date {
+    margin-top: 2px;
+    color: #B3B3B3;
+}
+/* :end */
